@@ -6,10 +6,11 @@ Algo HelloWorld {
 		Configurer la fenetre sur ‘exitOnClose’
 		// Création du label de texte
 		Créer un label avec du texte centré et contenant le texte 		HELLO_WORLD
-		Créer la couleur jaune
-		Mettre la couleur jaune sur le label
+		Créer la couleur vert
+		Mettre la couleur vert sur le label2
 		// Finalisation
-		Ajouter le lable sur la fenetre
+		Ajouter le lable2 sur la fenetre
+		(couleur de fond en vert)
 		Afficher la fenêtre
 	}
 }
