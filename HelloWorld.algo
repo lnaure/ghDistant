@@ -10,9 +10,11 @@ Algo HelloWorld {
 		Mettre la couleur cyan sur le label2
 		Créer la couleur bleu
 		Mettre la couleur bleu sur le label1
+		Créer variable date
 		// Finalisation
 		Ajouter le lable1 au texte
 		Ajouter le lable2 sur la fenetre
+		Ajouter la date
 		Afficher la fenêtre
 		Adding herobrine
 	}
